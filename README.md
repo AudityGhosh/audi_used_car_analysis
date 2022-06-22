@@ -7,3 +7,7 @@
 ###### Attached notebook includes barplot, piechart, scatter plot, regression plot, pair plot, box plot , violinplot and histogram using the attributes of the dataset. 
 ###### I have applied Linear Regression on the dataset. 
 
+
+#### The dataset was collected from   https://github.com/SKawsar/Data_Visualization_with_Python/blob/main/audi.csv
+#### The actual dataset source was https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
+
